@@ -11,7 +11,7 @@
     </div>
     <div class="footer-like">
       <p>Email not received?
-       <a href="#">Click here to send again</a>
+       <a href="#">Click here to send again.</a>
       </p>
     </div>
 </div>
